@@ -1,0 +1,8 @@
+<!--logs.wxml-->
+<view class="container log-list">
+  <block wx:for="{{logs}}" wx:for-item="log">
+     
+  </block>
+  <div id="map">试试</div>  
+    
+</view>
